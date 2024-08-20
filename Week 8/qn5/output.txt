@@ -1,0 +1,9 @@
+apple is red
+banana is yellow
+blueberry is blue
+grape is purple
+kiwi is green
+lemon is yellow
+orange is orange
+strawberry is red
+watermelon is green

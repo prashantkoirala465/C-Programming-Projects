@@ -1,0 +1,3 @@
+apple is red
+banana is yellow
+grape is purple
