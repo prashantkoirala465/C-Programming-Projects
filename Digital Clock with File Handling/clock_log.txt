@@ -1,0 +1,12 @@
+User: Prashant
+Location: Kathmandu
+Time Format: 12-hour
+Display Seconds: Yes
+Timestamp: Wed Aug 21 18:10:29 2024
+----------------------------------------
+User: Aananta
+Location: Sydney
+Time Format: 12-hour
+Display Seconds: No
+Timestamp: Wed Aug 21 18:11:45 2024
+----------------------------------------
