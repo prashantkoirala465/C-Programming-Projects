@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-#include "input.h"
-#include "time_zone.h"
+//Written by: Prashant Koirala
+int getUserInput(const char *prompt, int min, int max);
+void getLocationInput(char *location, size_t size);
+int getTimeZoneOffset(const char *location);
+int getMinutesOffset(const char *location);
 
 int getUserInput(const char *prompt, int min, int max) {
     int input;
